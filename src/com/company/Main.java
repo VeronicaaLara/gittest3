@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Introduce dos números");
 
 
-        System.out.println("Buenos días a todos");
+        System.out.println("Buenos días a todo el mundo");
 
 
 
